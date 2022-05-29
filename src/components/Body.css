@@ -1,0 +1,55 @@
+.seemore {
+  margin-top: 50px;
+}
+
+.see {
+  background-color: transparent;
+  border: 0;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.body {
+  color: black;
+  font-family: sans-serif;
+}
+
+.divide {
+  color: lightgray;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+}
+
+.liki {
+  cursor: pointer;
+}
+
+.comm {
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.eight {
+  margin-left: 380px;
+  font-weight: 700;
+}
+
+#likibut {
+  background-color: transparent;
+  border: 0px;
+  color: gray;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.lik {
+  align-items: center;
+  font-size: 17px;
+  display: flex;
+}
